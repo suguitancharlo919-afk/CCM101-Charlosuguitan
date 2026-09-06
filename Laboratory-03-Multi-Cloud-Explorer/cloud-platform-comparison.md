@@ -10,7 +10,7 @@
 | **Primary Strength** | Market dominance and vast ecosystem | Enterprise and hybrid integration | Data analytics, AI, and Kubernetes |
 | **Ideal Organizations** | Startups and large global enterprises | Companies using Windows and Microsoft 365 | AI tech startups and data-driven firms |
 
-## Analysis Questions
+## Questions
 1. **Which cloud provider offers the broadest range of services?**
 For me, AWS stands out as the provider with the widest catalog of cloud services. Because they were the first major platform in the market, they have developed a highly mature ecosystem that can accommodate almost any type of business workload.
 
