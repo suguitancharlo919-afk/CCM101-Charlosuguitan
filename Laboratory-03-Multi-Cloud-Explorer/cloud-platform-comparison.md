@@ -22,3 +22,13 @@ Google Cloud Platform (GCP) is the strongest in Artificial Intelligence and Kube
 
 4. **Which cloud platform would you personally choose and why?**
 I would personally choose Google Cloud Platform because its focus on Kubernetes and advanced AI tools aligns with modern developer workflows. Its per-second billing model is also highly cost-effective for smaller projects.
+
+## Checkpoint 5: Equivalent Services Reference Table
+
+| Service Category | AWS | Azure | GCP |
+| :--- | :--- | :--- | :--- |
+| **Virtual Machine** | Amazon EC2 | Azure Virtual Machines | Google Compute Engine |
+| **Object Storage** | Amazon S3 | Azure Blob Storage | Google Cloud Storage |
+| **Identity Management** | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
+| **SQL Database** | Amazon RDS | Azure SQL Database | Cloud SQL |
+| **Kubernetes** | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
